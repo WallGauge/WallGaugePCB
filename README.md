@@ -31,7 +31,7 @@ There are two headers on the backside of the WallGauge PCB.  The 4 pin header is
 
 ## Mounting
 
-Three 2.5mm holes on the PCB can be used to mount the WallGauge PCB to your project. The stepper motor has two 2mm machine screws sticking out that can be used to hold a gauge placard.  For details on the PCB hole placement see the Autocad drawing link below.  You can find more infromation on the stepper configuration in the stepper motor specs pdf below as well. Mounting hardware (the above mention nuts and bolts) is not inclued.
+Three 2.5mm holes on the PCB can be used to mount the WallGauge PCB to your project. The stepper motor has two 2mm machine screws sticking out that can be used to hold a gauge placard. For details on the PCB hole placement see the Autocad drawing link below. You can find more information on the stepper configuration in the stepper motor specs pdf below as well. Mounting hardware (the above mention nuts and bolts) is not included.
 
 ## Batteries
 

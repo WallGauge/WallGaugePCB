@@ -47,12 +47,18 @@ The WallGauge PCB is designed to work inside at a comfortable room temperature. 
 
 The WallGauge PCB is sensitive to electrostatic discharge (ESD).  You must practice proper ESD handling techniques when handling the WallGauge PCB.  Examples are using an electrostatic wrist strap and an ESD bench mat.
 
+## Build your own gauge
+
+You can use our [Test Gauge App](https://github.com/WallGauge-GaugeApps/TestGauge) to send gauge commands to this gauge.  This will allow you to create your own gauge face and manually move the WallGauge needle.  The test Gauge App is installed onto your GDT with the [GDT Administrator iPhone app](https://apps.apple.com/us/app/gdt-administrator/id1498115113).  There is a sample gauge face in the downloads below you can use as a reference for your custom gauge face.  
+
 ## Additional information
 
 * WallGauge PCB Spec Sheet [PDF document](./Docs/WallGaugePCB_SpecSheet.pdf)
 * WallGauge PCB Autocad drawing in [DXF format](./Docs/WallGaugePCB.dxf)
 * Stepper Motor Specs [PDF document](./Docs/StepperSpec.pdf)
 * Infrared receiver spec sheet [PDF document](./Docs/tsop382.pdf)
+* Sample Gauge Face [PDF document](./Docs/SampleGaugeFace.pdf)
+* Sample Gauge Face [DXF Format](./Docs/SampleGaugeFace.dxf)
 
 ![pic](./Pics/wgPCB_BackBattery.png)
 ![pic](./Pics/wgPCB_StepperView.png)

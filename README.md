@@ -29,6 +29,10 @@ If a WallGauge PCB does not receive a valid data packet at least every 20 minute
 
 There are two headers on the backside of the WallGauge PCB.  The 4 pin header is used to load the firmware at the factory.  The 2 pin header with a plus sign (+) is the power header.  A jumper must be across this header to power on the WallGauge PCB.
 
+## Mounting
+
+Three 2.5mm holes on the PCB can be used to mount the WallGauge PCB to your project. The stepper motor has two 2mm machine screws sticking out that can be used to hold a gauge placard.  For details on the PCB hole placement see the Autocad drawing link below.  You can find more infromation on the stepper configuration in the stepper motor specs pdf below as well. Mounting hardware (the above mention nuts and bolts) is not inclued.
+
 ## Batteries
 
 Three triple A alkaline batteries (LR03) are required to power a WallGauge PCB.  We try to make sure each gauge has at least a one year battery life.  See the Firmware section above for details.  Do not modify the battery circuit. Do not try to power the WallGauge PCB from an external power source.  Do not use rechargeable batteries in the WallGauge PCB. Make sure the battery cover is securely screwed into place to secure the batteries. 

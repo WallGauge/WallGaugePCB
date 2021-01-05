@@ -49,6 +49,7 @@ The WallGauge PCB is sensitive to electrostatic discharge (ESD).  You must pract
 
 ## Additional information
 
+* WallGauge PCB Spec Sheet [PDF document](./Docs/WallGaugePCB_SpecSheet.pdf)
 * WallGauge PCB Autocad drawing in [DXF format](./Docs/WallGaugePCB.dxf)
 * Stepper Motor Specs [PDF document](./Docs/StepperSpec.pdf)
 * Infrared receiver spec sheet [PDF document](./Docs/tsop382.pdf)

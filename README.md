@@ -1,5 +1,7 @@
 # WallGauge PCB (Analog Gauge)
 
+![pic](./Pics/wgPCB_SideView.png)
+
 ## Overview
 
 A WallGauge is a round printed circuit board housing an analog gauge (small stepper motor), infrared receiver, and a very unique processor called the Propeller from Parallax.  Firmware on the Propeller listens for commands from a Gauge Data Transmitter (GDT) and will move the needle to a physical location as instructed.  This firmware is designed to work with a gauge app running on the GDT giving us the ability to support multiple gauge types. Each gauge type can have a unique gauge face and calibration table.  This unique combination of the firmware and gauge apps makes the WallGauge system highly customizable.
@@ -44,3 +46,6 @@ The WallGauge PCB is sensitive to electrostatic discharge (ESD).  You must pract
 * WallGauge PCB Autocad drawing in [DXF format](./Docs/WallGaugePCB.dxf)
 * Stepper Motor Specs [PDF document](./Docs/StepperSpec.pdf)
 * Infrared receiver spec sheet [PDF document](./Docs/tsop382.pdf)
+
+![pic](./Pics/wgPCB_BackBattery.png)
+![pic](./Pics/wgPCB_StepperView.png)

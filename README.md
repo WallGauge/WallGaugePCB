@@ -12,11 +12,11 @@ To purchase a WallGauge PCB please visit the [WallGauge online store](https://ww
 
 Each WallGauge PCB can be programed (at the factory) with a unique gauge address and sleep cycle.  The gauge address is used to match the WallGauge PCB to a gauge face.  For example gauge address 20 is assigned to a Temperature gage face.
 
-In order to conserve energy all WallGauges are programed with a sleep cycle.  This is necessary to obtain a year plus run time on the three AAA batteries. Their are two sleep cycle configurations conservative and aggressive.  The conservative configuration is best suited for static data (data that doesn’t change much over time) like river levels.  A WallGauge running the conservative configuration can achieve a two year run time on the three AAA batteries.   The aggressive configuration is used when data is more fluid (data that changes quickly over time) like windspeed.  A gauge configured with with the aggressive firmware will have a one year battery life.
+In order to conserve energy all WallGauges are programed with a sleep cycle.  This is necessary to obtain a year plus run time on the three AAA batteries. There are two sleep cycle configurations conservative and aggressive.  The conservative configuration is best suited for static data (data that doesn’t change much over time) like river levels.  A WallGauge running the conservative configuration can achieve up to ten year run time on the three AAA batteries.   The aggressive configuration is used when data is more fluid (data that changes quickly over time) like windspeed.  A gauge configured with with the aggressive firmware will have a one year battery life.
 
 | Firmware | Awake | Sleep | Expected Battery Life|
 |----------|-------|-------|----------------------|
-|Conservative|30 seconds| 300 seconds|~2 Years|
+|Conservative|30 seconds| 300 seconds|Up to 10 Years|
 |Aggressive|10 seconds| 30 seconds|~1 Year|
 
 ### Communications
@@ -37,7 +37,7 @@ Three 2.5mm holes on the PCB can be used to mount the WallGauge PCB to your proj
 
 ## Batteries
 
-Three triple A alkaline batteries (LR03) are required to power a WallGauge PCB.  We try to make sure each gauge has at least a one year battery life.  See the Firmware section above for details.  Do not modify the battery circuit. Do not try to power the WallGauge PCB from an external power source.  Do not use rechargeable batteries in the WallGauge PCB. Make sure the battery cover is securely screwed into place to secure the batteries.
+Three triple A alkaline batteries (LR03) are required to power a WallGauge PCB.  We try to make sure each gauge has at least a one year battery life.  See the Firmware section above for details.  **Do not modify the battery circuit. Do not try to power the WallGauge PCB from an external power source.  Do not use rechargeable batteries in the WallGauge PCB. Do not leave discharged batteries in the WallGauge PCB as damage may occur.** Make sure the battery cover is securely screwed into place to secure the batteries.
 
 ## Environment
 
